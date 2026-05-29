@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.topo {
+    display: flex;
+    justify-content: space-between;
+    background-color: #F7D6D7;
+    padding: 20px;
+}
+
+.topo header  img {
+    width: 230px;
+    height: 130px;
+}
+
+.topo nav {
+    margin-right: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.topo nav a {
+    text-decoration: none;
+    color: #A3305B;
+    padding: 10px;
+}
+
+.quadradinhoP1 {
+    background-color: #A61B55;
+    border-radius: 20px;
+    padding: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-self: center;
+    text-align: center;
+}
+
+.Quadradao {
+    display: flex;
+    background-color: #FFFF;
+    gap: 90px;
+    padding: 50px;
+    justify-content: center;
+}
+
+.quadradinhoP1 h3 {
+    color: #FFFF;
+}
+
+.quadradinhoP1 p {
+    color: gray;
+}
+
+.quadradinhoP1 p {
+    color: #FFFF;
+}
+
+.quadradoPe {
+    text-align: center;
+    background-color: #F3ECEE;
+    padding: 10px;
+    border-radius: 100px;
+    width: 25%;
+    justify-self: center;
+    margin-top: 30px;
+}
+
+.quadradoPe p {
+    font-size: 40px;
+    color: #A61B55;
+}
+
+
+
+
+
+
+footer {
+    background-color: #F7D6D7;
+    display: flex;
+    justify-content: space-between;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}

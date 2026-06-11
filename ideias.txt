@@ -1,0 +1,19 @@
+IDEIA 1:
+Sistema de preview por passagem do mouse:
+Desenvolver um sistema de eventos mouseOver e mouseOut: quando o usuário posicionar o cursor sobre um determinado botão, será exibida uma pré-visualização da página associada ao link; ao retirar o cursor do botão, a pré-visualização será ocultada automaticamente.
+
+IDEIA 2:
+Sistema de troca de conteúdo por clique em botão:
+Desenvolver um sistema de interação por clique: quando o usuário clicar em um determinado botão, o conteúdo exibido na página será substituído pelas informações de outro produto, sem a necessidade de recarregar a página.
+
+IDEIA 3:
+Sistema de carrossel:
+Desenvolver um sistema de carrossel de conteúdo: quando o usuário clicar nos botões de navegação ou aguardar a transição automática, os itens exibidos serão alternados, permitindo a visualização sequencial de diferentes conteúdos na mesma área da página.
+
+IDEIA 4: 
+Sistema de verificador de senhas:
+Desenvolver um sistema de verificação de senhas: conforme o usuário digitar sua senha em um campo de formulário, o sistema analisará os critérios de segurança definidos e exibirá em tempo real o nível de força da senha e os requisitos atendidos ou pendentes.
+
+IDEIA 5:
+Sistema de acordeão (FAQ):
+Desenvolver um sistema de acordeão: quando o usuário clicar em uma pergunta, sua resposta será expandida; ao clicar novamente, o conteúdo será recolhido.
